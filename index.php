@@ -12,7 +12,7 @@
 <?php
 require_once 'views/top_page.php';
 ?>
-    <!--le main-->
+    <!--le main -->
     <main id="mainIndex">
         <h2 class="h2produits">Nos bateaux</h2>
         <div id="nosBateaux">

@@ -6,7 +6,7 @@
  * Time: 15:18
  */
 ?>
-
+<!--->
 <nav id="menu">
     <ul>
         <li><a href="index.php">Accueil</a></li>
