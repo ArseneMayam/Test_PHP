@@ -5,6 +5,7 @@
  * Date: 14/08/17
  * Time: 14:52
  */
+require_once 'views/connexion_db.php'
 
 ?>
 
